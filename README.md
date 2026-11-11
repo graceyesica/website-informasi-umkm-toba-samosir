@@ -1,61 +1,76 @@
+# Toba and Samosir MSME Information Website
 
-# Website Informasi UMKM Toba dan Samosir
+An academic group project focused on developing an information website to help users discover Micro, Small, and Medium Enterprises (MSMEs) in Toba and Samosir, Indonesia.
 
-## 📌 About The Project
+## About the Project
 
-Website Informasi UMKM Toba dan Samosir is an academic group project developed to help users discover local businesses, restaurants, and products in Toba and Samosir.
+The Toba and Samosir MSME Information Website aims to make it easier for local communities and tourists to find information about local businesses.
 
-The website aims to make information about local MSMEs more accessible to the community and tourists.
+The platform provides information about MSMEs, including shops, restaurants, and local products. It is designed to help users discover business information, descriptions, and locations more conveniently.
 
-## 🎯 Project Objectives
+## Project Objectives
 
-- Provide information about local MSMEs.
-- Help users discover restaurants, shops, and local products.
-- Display business descriptions and addresses.
-- Provide Google Maps links to help users locate business locations.
-- Allow users to explore and review local businesses.
+- Provide accessible information about MSMEs in Toba and Samosir.
+- Help users discover local shops, restaurants, and products.
+- Provide business descriptions and location information.
+- Support the digitalization of local MSMEs.
 
-## ⚙️ Technologies Used
+## Key Features
 
-- PHP
-- Laravel
-- HTML
-- CSS
-- MySQL
-- phpMyAdmin
+- **MSME Information:** Displays information about local businesses.
+- **Business Details:** Provides descriptions and other business information.
+- **Location Information:** Helps users identify business locations.
+- **User Reviews:** Supports users in sharing feedback about businesses.
 
-## ✨ Main Features
+## Development Methodology
 
-- User and admin authentication.
-- MSME information and business descriptions.
-- Business location and Google Maps integration.
-- User reviews and ratings.
+This project uses the **Waterfall Model**, which consists of the following development stages:
 
-## 🔄 Development Methodology
+1. **Requirements Analysis** – Identifying system requirements and user needs.
+2. **System Design** – Designing the system architecture and interface.
+3. **Implementation** – Developing the website based on the design.
+4. **Testing** – Checking the system functionality.
+5. **Deployment** – Preparing the system for use.
 
-This project uses the Waterfall Software Development Life Cycle (SDLC):
+## Technologies Used
 
-1. Requirements Analysis
-2. System Design
-3. Implementation
-4. Testing
+- **Laravel 10** – Web application framework.
+- **PHP 8.2** – Backend programming language.
+- **phpMyAdmin** – Database management tool.
 
-## 👥 Project Information
+## My Role
 
-- Project Type: Academic Group Project
-- Course: Proyek Akhir 1
-- Institution: Institut Teknologi Del
-- Project Title: Website Informasi UMKM Toba dan Samosir
-- My Role: Project Leader
+**Project Leader**
 
-## 📷 Project Screenshots
+As the Project Leader, my responsibilities included:
 
-Project screenshots and documentation will be added to this repository.
+- Coordinating team members and task distribution.
+- Organizing project activities and development progress.
+- Monitoring task completion.
+- Supporting team communication and collaboration.
 
-## 📄 Documentation
+## Project Documentation
 
-Additional project documentation will be provided in the repository.
+The project development documentation is available in the following folder:
 
-## 📌 Project Status
+- [Project Development Document (DPP)](docs/DPP_PA1-24.25-D3TK11.pdf)
 
-Completed Academic Project.
+## Project Information
+
+| Category | Details |
+|---|---|
+| Project Type | Academic Group Project |
+| Project | Proyek Akhir I |
+| Methodology | Waterfall |
+| Field | Web Development |
+| Status | Completed |
+
+## Team Members
+
+- **Grace Yesica Simanjuntak** – Project Leader
+- **Jans Fahrel Adiputra Manurung** – Team Member
+- **William** – Team Member
+
+---
+
+*This project was developed as part of the Computer Technology Diploma Program at Institut Teknologi Del.*
